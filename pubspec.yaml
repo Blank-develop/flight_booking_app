@@ -80,7 +80,16 @@ flutter:
     - assets/images/dash.png
     - assets/images/two.jpeg
     - assets/images/wayha.jpeg
-    - assets/images/
+    - assets/images/bank.jpeg
+    - assets/images/bcel.jpeg
+    - assets/images/beerlao.jpeg
+    - assets/images/khamphouvong.jpeg
+    - assets/images/merlion.png
+    - assets/images/tokyo_tower.jpeg
+    - assets/images/visa.png
+    - assets/images/card.png
+    - assets/images/rjSavath.jpeg
+    - assets/images/mod.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

@@ -33,8 +33,8 @@ class Profile extends StatelessWidget {
             ),
             ListTile(
               leading: CircleAvatar(
-                backgroundImage: NetworkImage(
-                    "https://scontent.fvte2-3.fna.fbcdn.net/v/t39.30808-6/314696938_5991115640939036_7643876358131006955_n.jpg?stp=cp6_dst-jpg&_nc_cat=103&ccb=1-7&_nc_sid=174925&_nc_eui2=AeHUWZmPlMuhe2SG0GFx5d6mA4tiNuZ49P8Di2I25nj0_18H6voTcSemvyYt9ExIQNVuats2guiLaeOyF9Zerxtv&_nc_ohc=H0TyWuAkmxYAX9sdP-m&_nc_ht=scontent.fvte2-3.fna&oh=00_AfC9qq5iatbk5p2GPMSQR8JNT859FZAami7RI7v9vCjBxA&oe=63E847AB"),
+                backgroundImage: 
+                AssetImage('./assets/images/rjSavath.jpeg'),
                 radius: 25,
               ),
               title: Text(
@@ -105,8 +105,8 @@ class Profile extends StatelessWidget {
             ),
             ListTile(
               leading: CircleAvatar(
-                backgroundImage: NetworkImage(
-                    "https://scontent.fvte2-2.fna.fbcdn.net/v/t39.30808-6/314943007_842113320257323_4446562718495204350_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeES2kT6DPIBM8HrnIhwvBv9uVxcs41pWPG5XFyzjWlY8XgHU1gOaEh6ZPKkWgTqmqNO8eFztENVJAykJXnIOv11&_nc_ohc=t9VslrTHucwAX9nFYhT&_nc_ht=scontent.fvte2-2.fna&oh=00_AfBtabC3gyvEco66BUbXifPhlISR7p2UtZrbX7et8ARVQw&oe=63E85E90"),
+                backgroundImage: AssetImage(
+                    "./assets/images/mod.jpeg"),
                 radius: 25,
               ),
               title: Text(
@@ -161,8 +161,8 @@ class Profile extends StatelessWidget {
             ),
             ListTile(
               leading: CircleAvatar(
-                backgroundImage: NetworkImage(
-                    "https://scontent.fvte2-3.fna.fbcdn.net/v/t39.30808-6/326886873_1426321724782495_4354814243981283672_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE3ET_Q9yM3iSF_cDkUI9k_NpleJb4gYd82mV4lviBh3y1Jqwf00yz87MewprotEjljw-0iRZOda-I73B2pCZra&_nc_ohc=Se-BcrD9XsYAX-qjHAL&tn=cR79auS_aEqx3j9p&_nc_ht=scontent.fvte2-3.fna&oh=00_AfAQRLkk6YsAMplqp11xv_fnpaeO8oIDhI8UOu4cgRrcQg&oe=63E75161"),
+                backgroundImage: AssetImage(
+                    "./assets/images/bank.jpeg"),
                 radius: 25,
               ),
               title: Text(

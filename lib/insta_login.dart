@@ -114,21 +114,7 @@ class _InstaLoginState extends State<InstaLogin> {
           ],
         ),
         const SizedBox(height: 24),
-        Row(
-          children: const [
-            Flexible(child: Divider(thickness: 2)),
-            Text(" OR "),
-            Flexible(child: Divider(thickness: 2)),
-          ],
-        ),
-        const SizedBox(height: 48),
-        Row(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            Image.asset("assets/images/fb_icon.png", height: 32),
-            const Text(" Log in with Facebook"),
-          ],
-        )
+        
       ],
     );
   }

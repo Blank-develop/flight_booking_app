@@ -25,7 +25,7 @@ class Home extends StatelessWidget {
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(10.0),
               image: DecorationImage(
-                image: AssetImage("assets/images/wayha.jpeg"),
+                image: AssetImage("./assets/images/wayha.jpeg"),
                 fit: BoxFit.cover,
               ),
             ),
@@ -35,7 +35,7 @@ class Home extends StatelessWidget {
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(10.0),
               image: DecorationImage(
-                image: AssetImage('assets/images/bcel.jpeg'),
+                image: AssetImage('./assets/images/bcel.jpeg'),
                 fit: BoxFit.cover,
               ),
             ),
@@ -45,7 +45,7 @@ class Home extends StatelessWidget {
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(10.0),
               image: DecorationImage(
-                image: AssetImage("assets/images/beerlao.jpeg"),
+                image: AssetImage("./assets/images/beerlao.jpeg"),
                 fit: BoxFit.cover,
               ),
             ),
@@ -55,7 +55,7 @@ class Home extends StatelessWidget {
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(10.0),
               image: DecorationImage(
-                image: AssetImage('assets/images/khamphouvong.jpeg'),
+                image: AssetImage('./assets/images/khamphouvong.jpeg'),
                 fit: BoxFit.cover,
               ),
             ),

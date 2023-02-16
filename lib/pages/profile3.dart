@@ -154,8 +154,7 @@ class _TopPortion extends StatelessWidget {
                     shape: BoxShape.circle,
                     image: DecorationImage(
                         fit: BoxFit.cover,
-                        image: NetworkImage(
-                             "https://scontent.fvte2-2.fna.fbcdn.net/v/t39.30808-6/314943007_842113320257323_4446562718495204350_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeES2kT6DPIBM8HrnIhwvBv9uVxcs41pWPG5XFyzjWlY8XgHU1gOaEh6ZPKkWgTqmqNO8eFztENVJAykJXnIOv11&_nc_ohc=t9VslrTHucwAX9nFYhT&_nc_ht=scontent.fvte2-2.fna&oh=00_AfBtabC3gyvEco66BUbXifPhlISR7p2UtZrbX7et8ARVQw&oe=63E85E90")),
+                        image: AssetImage('./assets/images/mod.jpeg')),
                   ),
                 ),
                 Positioned(
